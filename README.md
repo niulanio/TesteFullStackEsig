@@ -1,6 +1,6 @@
 # TesteFullStackEsig
 
-<p>Nesse projeto foi desenvolvida uma API com Java e Spring boot e Express para controle de tarefas </p>
+<p>Nesse projeto foi desenvolvida uma API com Java e Spring boot para controle de tarefas </p>
 
 
 * [Sobre](#sobre)
