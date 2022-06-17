@@ -22,7 +22,6 @@
 <ul>
   <li>JAVA 11</li>
   <li>JPA</li>
-  <li>HIBERNATE</li>
   <li>SPING BOOT</li>
   <li>POSTGRESQL</li>
   <li>LOMBOK</li>
